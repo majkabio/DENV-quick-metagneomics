@@ -1,4 +1,4 @@
-# DENV quick metagneomics
+# DENV quick metagenomics
 This script is a custom metagenomics pipeline that performs kmer-based classification on reads in nanopore FASTQ files using Kraken2 with a user-specified Kraken2 database<br/>
 by **M Galarion**
 <br/>
